@@ -1,8 +1,8 @@
 ---
-name: AI 원고/콘텐츠 퀄리티 피드백
+name: 콘텐츠 피드백
 about: 자동 생성되는 블로그 원고나 콘텐츠의 품질 및 형식 관련
 title: "[AI피드백] "
-labels: ai-feedback
+labels: 콘텐츠
 assignees: ''
 ---
 

@@ -2,7 +2,7 @@
 name: UI/UX 개선 요청
 about: 화면 디자인, 조작 불편함 등 화면/설정 관련 개선
 title: "[개선] "
-labels: enhancement, ui/ux
+labels: UI/UX
 assignees: ''
 ---
 

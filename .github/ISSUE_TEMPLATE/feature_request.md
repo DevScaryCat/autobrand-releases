@@ -2,7 +2,7 @@
 name: 신규 기능 추가 요청
 about: 현재 프로그램에 없는 새로운 옵션이나 완전히 새로운 기능
 title: "[기능추가] "
-labels: enhancement, feature
+labels: 신규 기능
 assignees: ''
 ---
 
